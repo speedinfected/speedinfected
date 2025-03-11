@@ -11,19 +11,20 @@
 
 <div align="center"> <h1>Minhas skills: </h1></div>
 <div align="center"> 
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" style="border-radius: 30px" target="_blank">
+<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" style="border-radius: 30px" target="_blank"> 
  </div>
-![Unity]()&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo==php)&nbsp;
-
-
-
-
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="border-radius: 30px" target="_blank"> 
+ </div>
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="border-radius: 30px" target="_blank">  
+ </div>
+ <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" target="_blank"> 
+ </div>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="border-radius: 30px" target="_blank"> 
+ </div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 30px" target="_blank"> 
+ </div>
+  <img src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo==php" style="border-radius: 30px" target="_blank"> 
+ </div>
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
