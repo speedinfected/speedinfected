@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA8DC&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sans+Serif&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Paulo!;Esse+%C3%A9+meu+perfil+do+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Paulo!;Seja+muito+bem+vindo(a)+ao+meu+perfil+do+Gith)](https://git.io/typing-svg)
 
 
   <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=speedinfected&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="Paulo R. github stats" /> 
@@ -37,4 +37,4 @@
 <a href="https://www.linkedin.com/in/paulo-roberto-rodrigues-6a3773291/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6FA8DC&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F70000&height=120&section=footer"/>
