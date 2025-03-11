@@ -2,10 +2,12 @@
 
 
 <div align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Paulo!;Seja+Bem-Vindo(a)!;Este+%C3%A9+meu+perfil+GitHub!" alt="perfil">
-</div><br>
-  <img align="center" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=speedinfected&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="Paulo R. github stats" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Sans+Serif&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Paulo!;Seja+Bem-Vindo(a)!;Este+%C3%A9+meu+perfil+GitHub!" alt="perfil">
+<br>
+   
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=speedinfected&show_icons=true&count_private=true&hide_border=true&title_color=D13800a4&icon_color=FFEB00a4&text_color=FFFFE0&bg_color=0d1117" alt="Paulo R. github stats" /> 
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cceciliaz&layout=compact&hide_border=true&title_color=D13800a4&text_color=FFFFE0a4&bg_color=0d1117" />
+   </div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=speedinfected&bg_color=0d1117&color=ff0000&line=ffae00&point=c20000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
