@@ -25,6 +25,8 @@
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius: 30px" target="_blank"> 
 
  <img src="https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo==php" style="border-radius: 30px" target="_blank"> 
+
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" target="_blank"> 
   </div>
 
   
